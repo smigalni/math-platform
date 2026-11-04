@@ -17,9 +17,9 @@ Fargene skal brukes konsekvent på tvers av bøker. Konkrete fargeverdier og CSS
 
 - Regelbokser skal ha blå visuell utforming: blå kant, lys blå bakgrunn og tydelig tittel.
 - **Det skal ikke være svarte rammer rundt formler inne i regelbokser.**
-- Ikke bruk LaTeX-kommandoen `\\boxed{...}` inne i en regelboks når den gir en ekstra svart ramme rundt formelen. La den blå regelboksen være den eneste rammen.
+- Ikke bruk LaTeX-kommandoen `\boxed{...}` inne i en regelboks når den gir en ekstra svart ramme rundt formelen. La den blå regelboksen være den eneste rammen.
 - Unngå doble rammer og unødvendige dekorative konturer.
-- Eksempel: skriv formelen direkte i display-matematikk inne i den blå boksen, uten `\\boxed{}`.
+- Eksempel: skriv formelen direkte i display-matematikk inne i den blå boksen, uten `\boxed{}`.
 
 ## Matematiske uttrykk og svar
 

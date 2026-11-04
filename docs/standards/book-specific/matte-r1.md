@@ -13,7 +13,7 @@ Dette dokumentet samler valg som er gjort for R1-boka. De er ikke automatisk uni
 
 - Bruk «knekk» som forklarende begrep for et skarpt hjørne når kontinuitet/deriverbarhet forklares.
 - Forklar deriverbarhet med relevante ensidige grenser der det passer.
-- I tangentlikninger brukes stigningstallet \\(a\\), og punktet kan skrives \\((x_1,y_1)\\).
+- I tangentlikninger brukes stigningstallet \(a\), og punktet kan skrives \((x_1,y_1)\).
 - Bruk «brøkregelen» som hovedbetegnelse i elevteksten; «kvotientregelen» kan nevnes som synonym ved behov.
 - Kjerneregelen skal forklares både intuitivt/grafisk og med u-metoden når det er relevant.
 

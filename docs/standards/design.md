@@ -25,6 +25,7 @@ Fargene skal brukes konsekvent på tvers av bøker. Konkrete fargeverdier og CSS
 
 - Bruk korrekt MathJax/LaTeX og riktige avgrensere.
 - Displayformler skal stå på egne linjer når det gir bedre lesbarhet.
+- Mellomregning skal presenteres ryddig over flere linjer. Sett likhetstegnene under hverandre når det er naturlig og gjør utregningen lettere å følge.
 - Bruk `\\dfrac` for brøker når det gir tydeligere lesbarhet.
 - Sluttsvar skal ha dobbel understrek: `\\underline{\\underline{...}}`.
 - Ikke la rå LaTeX eller Markdown-syntaks vises som vanlig tekst.
@@ -32,6 +33,8 @@ Fargene skal brukes konsekvent på tvers av bøker. Konkrete fargeverdier og CSS
 
 ## Typografi og oppsett
 
+- Skrifttype og skriftstørrelser styres sentralt av plattformens design, ikke individuelt i hver bok eller regelboks.
+- Typografien skal være responsiv og lesbar på mobil, nettbrett og PC.
 - Eksempler og oppgaver skal visuelt skilles tydelig.
 - Unngå lange overskrifter, unødvendig tekst og for mange bokser eller illustrasjoner.
 - Bruk figurer når de faktisk forklarer et matematisk poeng.

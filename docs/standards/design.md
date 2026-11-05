@@ -43,7 +43,9 @@ Fargene skal brukes konsekvent på tvers av bøker. Konkrete fargeverdier og CSS
 
 ## Vanskelighetsfarger
 
-Når et oppgavesett er delt i nivåer, er standardfargene:
+Vanskelighetsfarger skal **kun brukes i blandede oppgavesett** der elevene arbeider med oppgaver på ulike nivåer. De skal ikke brukes på vanlige oppgaver rett etter hvert teorikapittel.
+
+Standardfargene i blandede oppgavesett er:
 - Middels: grønn.
 - Vanskelig: oransje/gul.
 - Svært vanskelig: rød.

@@ -51,3 +51,18 @@ Standardfargene i blandede oppgavesett er:
 - Svært vanskelig: rød.
 
 Fargene skal brukes på nivåoverskriftene i selve innholdet, ikke automatisk på navigasjon eller innholdsfortegnelse.
+
+## Utskrift og PDF
+
+Bøkene skal ha en god utskriftsfunksjon som gjør det enkelt å bruke innholdet på papir.
+
+- Brukeren skal kunne skrive ut eller lagre et helt kapittel som PDF.
+- Brukeren skal kunne velge og skrive ut enkeltstående delkapitler, eksempler eller oppgaver.
+- Det skal være mulig å skrive ut et oppgavesett uten teori og eksempler.
+- Oppgaver og løsningsforslag/fasit skal kunne skrives ut separat.
+- Det skal være mulig å sette sammen et eget oppgavesett av valgte oppgaver fra ulike deler av boken.
+- Utskriftsvisningen skal fjerne navigasjon, menyer og andre skjermelementer som ikke hører til faginnholdet.
+- Formler, figurer, oppgavenummerering og overskrifter skal beholde korrekt utforming og være lesbare på papir.
+- Utskriftsoppsettet skal gi eleven tilstrekkelig plass til å skrive mellomregning og svar der det er relevant.
+
+Utskrift skal fungere både direkte til skriver og som lagring til PDF. Funksjonen skal utformes som en felles plattformstandard, slik at den kan gjenbrukes i alle bøkene.

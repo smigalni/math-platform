@@ -33,8 +33,8 @@ Fargene skal brukes konsekvent på tvers av bøker. Konkrete fargeverdier og CSS
 
 ## Typografi og oppsett
 
-- Deloppgaver i samme oppgave skal alltid presenteres som egne punkter i en punktliste. Merkene a), b), c) osv. skal stå på hver sin linje, for eksempel `- a) ...` og `- b) ...`. Ikke skriv flere deloppgaver som ett sammenhengende avsnitt.
-- Bruk samme punktstruktur i oppgaveteksten og i tilhørende fasit/løsningsforslag. Hvis en deloppgave har en egen formelblokk eller mellomregning, skal den tydelig høre til riktig punkt.
+- Deloppgaver i samme oppgave skal alltid stå på hver sin linje med bokstavmerking (`a)`, `b)`, `c)` osv.). Ikke bruk ekstra punktmarkør eller nummerering foran bokstavene.
+- Bruk samme format i oppgaveteksten og i tilhørende fasit/løsningsforslag. Hvis en deloppgave har en egen formelblokk eller mellomregning, skal den tydelig høre til riktig bokstav.
 - Kravet gjelder på mobil, PC og i utskrift.
 - Skrifttype og skriftstørrelser styres sentralt av plattformens design, ikke individuelt i hver bok eller regelboks.
 - Typografien skal være responsiv og lesbar på mobil, nettbrett og PC.

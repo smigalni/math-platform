@@ -12,6 +12,8 @@ Prosjektet er i etableringsfasen. Før vi videreutvikler lærebokinnhold, dokume
 
 ## Styrende dokumenter
 
+- [Mission Control — Million Dollar Mission 2031](MISSION_CONTROL.md)
+
 - [Visjon](VISION.md)
 - [Prinsipper og beslutninger](PRINCIPLES.md)
 - [Pedagogiske standarder](docs/standards/pedagogy.md)

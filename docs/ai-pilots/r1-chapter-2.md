@@ -28,11 +28,11 @@ Hovedagenten utførte én sammenhengende arbeidsøkt og brukte fire tydelig adsk
 
 Ingen matematisk feil ble funnet i utvalget som ble kontrollert. Blant annet ble følgende kontrollert:
 
-- Kontinuitets- og stigningstallkravene i 2.8.7 gir henholdsvis (b=a-1) og (b=a+2), og kan ikke oppfylles samtidig.
-- Parameterfunksjonen i 2.8.10 gir hull ved (x=1), og ved (x=-1) hull bare når (a=1); ellers vertikal asymptote.
+- Kontinuitets- og stigningstallkravene i 2.8.7 gir henholdsvis $b=a-1$ og $b=a+2$, og kan ikke oppfylles samtidig.
+- Parameterfunksjonen i 2.8.10 gir hull ved $x=1$, og ved $x=-1$ hull bare når $a=1$; ellers vertikal asymptote.
 - 2.8.11 tar korrekt hensyn til opprinnelig definisjonsmengde i den rasjonale ulikheten.
-- Polynomdivisjonen i 2.8.12 gir skrå asymptote (y=x+1), hull ((1,3)) og vertikal asymptote (x=-1).
-- Logaritmeoppgaven 2.8.13 har definisjonsmengde ((-infty,1)\cup(3,\infty)), nullpunkter (2\pm\sqrt2), vertikale asymptoter (x=1,3) og verdimengde (ℝ).
+- Polynomdivisjonen i 2.8.12 gir skrå asymptote $y=x+1$, hull $(1,3)$ og vertikal asymptote $x=-1$.
+- Logaritmeoppgaven 2.8.13 har definisjonsmengde ((-infty,1)\cup(3,\infty)), nullpunkter (2\pm\sqrt2), vertikale asymptoter $x=1,3$ og verdimengde $\\mathbb R$.
 - Kapittelprøvens parameteroppgaver og anvendelsesmodellen for temperatur ble kontrollert.
 
 Dette er en målrettet kontroll av sentrale og krevende oppgaver, ikke en formell fullstendig matematisk revisjon av hver linje i hele kapittelet.

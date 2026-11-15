@@ -15,6 +15,7 @@ Prosjektet er i etableringsfasen. Før vi videreutvikler lærebokinnhold, dokume
 - [Visjon](VISION.md)
 - [Prinsipper og beslutninger](PRINCIPLES.md)
 - [AI-systemarkitektur](AI_SYSTEM.md)
+- [Første AI-pilot: R1 kapittel 2](docs/ai-pilots/r1-chapter-2.md)
 - [AI-arbeidsflyt](AI_WORKFLOW.md)
 - [Repository-instruksjoner for AI](AGENTS.md)
 - [Pedagogiske standarder](docs/standards/pedagogy.md)

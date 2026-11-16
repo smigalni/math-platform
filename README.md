@@ -16,15 +16,24 @@ Prosjektet er i etableringsfasen. Før vi videreutvikler lærebokinnhold, dokume
 
 - [Visjon](VISION.md)
 - [Prinsipper og beslutninger](PRINCIPLES.md)
+- [AI-systemarkitektur](AI_SYSTEM.md)
+- [Første AI-pilot: R1 kapittel 2](docs/ai-pilots/r1-chapter-2.md)
+- [AI-arbeidsflyt](AI_WORKFLOW.md)
+- [Repository-instruksjoner for AI](AGENTS.md)
 - [Pedagogiske standarder](docs/standards/pedagogy.md)
 - [Designstandarder](docs/standards/design.md)
 - [Kvalitetsstandarder](docs/standards/quality.md)
 - [Utviklingsstandarder](docs/standards/development.md)
-- [AI-arbeidsflyt](AI_WORKFLOW.md)
 - [Bokspesifikke standarder: R1](docs/standards/book-specific/matte-r1.md)
 - [Bokspesifikke standarder: T-matte](docs/standards/book-specific/tmatte.md)
 - [Arkitekturbeslutning 0001](docs/decisions/0001-platform-boundaries.md)
 - [Bidragsveiledning](CONTRIBUTING.md)
+
+## AI skills og roller
+
+- Gjenbrukbare skills ligger i `.agents/skills/`.
+- Spesialistbriefs ligger i `.agents/roles/`.
+- Se [AI-systemarkitekturen](AI_SYSTEM.md) for forskjellen mellom skills, roller, subagenter, MCP og harness.
 
 ## Arbeidsmåte
 

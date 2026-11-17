@@ -18,6 +18,7 @@ Prosjektet er i etableringsfasen. Før vi videreutvikler lærebokinnhold, dokume
 - [Prinsipper og beslutninger](PRINCIPLES.md)
 - [Pedagogiske standarder](docs/standards/pedagogy.md)
 - [Designstandarder](docs/standards/design.md)
+- [Visualiseringsstandarder](docs/standards/visualization.md)
 - [Kvalitetsstandarder](docs/standards/quality.md)
 - [Utviklingsstandarder](docs/standards/development.md)
 - [AI-arbeidsflyt](AI_WORKFLOW.md)

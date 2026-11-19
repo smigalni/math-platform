@@ -259,3 +259,56 @@ Ikke behandle åpne spørsmål som vedtatte beslutninger. Registrer beslutninger
 Vi lykkes ikke bare fordi vi har skrevet mange kapitler, bygget en elegant arkitektur eller tatt i bruk avanserte AI-agenter.
 
 Vi lykkes når vi har laget et produkt som elever og lærere faktisk bruker, som gir dokumenterbar verdi, som noen betaler for, og som kan leveres og forbedres på en repeterbar måte — uten at virksomheten er avhengig av at gründeren jobber stadig flere timer.
+
+
+## 11. Markedsvalidering — intervjuguide
+
+**Formål:** Finne ut hvilket matematikkrelatert problem som er viktig nok til at noen vil betale for å få det løst, hvem som opplever problemet, og hvem som faktisk kan kjøpe en løsning.
+
+Dette er en undersøkelse av dagens situasjon — ikke en salgspitch. Vi skal ikke anta at lærere, elever, foresatte eller skoler er riktig første kundesegment før vi har samlet bevis.
+
+### Fem hovedspørsmål
+
+1. **Hvilket problem er faktisk stort nok til at noen vil betale for å få det løst?**
+2. **Hvem opplever problemet oftest?**
+3. **Hvordan løser de det i dag?**
+4. **Hva koster dagens løsning i tid og penger?**
+5. **Hvem har myndighet til å kjøpe et bedre verktøy?**
+
+### Slik stiller vi spørsmålene
+
+- Be om konkrete eksempler fra respondentens egen hverdag. Spør gjerne: «Kan du fortelle om siste gang dette skjedde?»
+- Undersøk hva personen faktisk gjør i dag, ikke hva vedkommende tror hen ville gjort med et tenkt produkt.
+- Spør hvor ofte problemet oppstår, hvem som blir berørt, og hvilke konsekvenser det får.
+- Undersøk tidsbruk, eksisterende verktøy, lisenser, ekstrakostnader og manuelt arbeid.
+- Skill mellom bruker, faglig anbefaler, beslutningstaker og betaler. Det kan være fire forskjellige roller.
+- Ikke spør bare om personen liker ideen eller ville brukt AI. Høflig entusiasme er ikke dokumentert betalingsvilje.
+- Ikke presenter løsningen for tidlig. La respondenten beskrive problemet og dagens arbeidsflyt først.
+
+### Oppfølgingsspørsmål
+
+- Hvor ofte skjer dette — daglig, ukentlig eller sjeldnere?
+- Hva skjer hvis problemet ikke blir løst?
+- Hva har dere allerede prøvd?
+- Hva fungerer dårlig med dagens løsning?
+- Hvem bestemmer om dere kan kjøpe et nytt verktøy?
+- Hvilket budsjett ville et slikt kjøp eventuelt komme fra?
+- Har dere tidligere betalt for å løse et lignende problem?
+
+### Registrering etter hver samtale
+
+For hver samtale registrerer vi:
+- Respondentens rolle og kontekst (uten unødvendige personopplysninger).
+- Problemet beskrevet med respondentens egne ord.
+- Et konkret eksempel og hvor ofte det skjer.
+- Dagens løsning og alternativer.
+- Anslått tidsbruk og direkte kostnader.
+- Hvem som bruker, anbefaler, beslutter og betaler.
+- Tegn på faktisk betalingsvilje eller manglende interesse.
+- Viktigste overraskelse og hva vi bør undersøke videre.
+
+### Første valideringsrunde
+
+Mål: minst fem samtaler med variasjon i perspektiver, for eksempel privatmattelærer, skolelærer, elev og foresatt. Dette er et læringsutvalg, ikke et statistisk representativt utvalg.
+
+**Beslutningsregel:** Vi velger ikke første betalende kundesegment ut fra hvem som er lettest å nå eller hvem som liker ideen best. Vi velger ut fra problemets styrke, hyppighet, kostnad, tilgjengelighet og en troverdig kjøpsvei.

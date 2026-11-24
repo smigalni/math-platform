@@ -14,6 +14,7 @@ Prosjektet er i etableringsfasen. Før vi videreutvikler lærebokinnhold, dokume
 
 - [Mission Control — Million Dollar Mission 2031](MISSION_CONTROL.md)
 - [AI-besvarelsesanalysator — kravspesifikasjon v0.1](docs/product/ai-answer-analyzer-v0.1.md)
+- [Læringshistorikk, oppgavekvalitet og kontinuitet i undervisningen](docs/product/teacher-learning-continuity.md)
 - [Visjon](VISION.md)
 - [Prinsipper og beslutninger](PRINCIPLES.md)
 - [Pedagogiske standarder](docs/standards/pedagogy.md)
